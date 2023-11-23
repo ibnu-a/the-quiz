@@ -4,7 +4,7 @@ import { ref, computed } from "vue";
 const questions = ref([
   {
     question: "Apa yang menjadi elemen dasar pembentukan air?",
-    answer: 2,
+    answer: 0,
     options: [
       "Hidrogen dan Oksigen",
       "Karbon dan Hidrogen",
